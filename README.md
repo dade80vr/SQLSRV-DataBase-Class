@@ -1,6 +1,6 @@
 # SQLSRV DataBase Class
 ### Version
-0.2.0
+0.2.1
 
 ### About
 This PHP class is a tool for interacting with Microsoft SQL (MSSQL) databases using the SQLSRV feature, as `mssql_*` functions in PHP it self are deprecated alongside `mysql_*`.
